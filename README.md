@@ -9,11 +9,11 @@ I am a software developer familiar with Ruby and JavaScript. I am a recent gradu
 | **udderless - personal**        | Staff website for oatmilk business | Rails, Minitest   |
 | **brewkanoo - group**           | A home brewing walkthrough app     | React             |
 | **bank tech test - personal**   | A small project with versatile code| Ruby, RSpec       |
-| **acebook_robotlizard - group** | A social media site                | Rails             |
+| **acebook robotlizard - group** | A social media site                | Rails             |
 
 ## Experience
 
-**Profile Pensions - Pension Data Analyst ** (August 2019 to August 2020)  
+**Profile Pensions - Pension Data Analyst (August 2019 to August 2020)**
 
 - High level of attention to detail.
     - I produced excellent quality levels when assessing customer's current pension schemes to determine which switch drivers would apply to their situation.
