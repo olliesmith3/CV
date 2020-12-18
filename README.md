@@ -4,12 +4,12 @@ I am a software developer familiar with Ruby and JavaScript. I am a recent gradu
 
 ## Projects
 
-| Name                    | Description                        | Tech/tools        |
-| ----------------------- | ---------------------------------- | ----------------- |
-| **udderless**           | Staff website for oatmilk business | Rails, Minitest   |
-| **brewkanoo**           | A home brewing walkthrough app     | React             |
-| **bank tech test**      | A small project with versatile code| Ruby, RSpec       |
-| **acebook_robotlizard** | A social media site                | Rails             |
+| Name                            | Description                        | Tech/tools        |
+| ------------------------------- | ---------------------------------- | ----------------- |
+| **udderless - personal**        | Staff website for oatmilk business | Rails, Minitest   |
+| **brewkanoo - group**           | A home brewing walkthrough app     | React             |
+| **bank tech test - personal**   | A small project with versatile code| Ruby, RSpec       |
+| **acebook_robotlizard - group** | A social media site                | Rails             |
 
 ## Experience
 
@@ -36,14 +36,14 @@ Studying science has given me many transferrable skills relevant to coding. A lo
 ## Education
 
 #### Makers Academy August 2020 - November 2020
-- OOP 
-    - Became competent in Ruby and JS
 - Test-driven high-quality code writing
-    - 
+    - Please see my projects mentioned above for examples of my code quality.
 - Agile development process
     - Planning sprints and dividing tasks amongst the group. Using reflections on previous sprints to guide the next.
 - Pair programming
     - Daily 4 hour sessions taught me how to learn from others but also how to teach and get the most out of people.
+- OOP 
+    - Became competent in Ruby and JS
 
 #### University of Bristol - Integrated Chemistry Masters MChem (2014 to 2018)
 
