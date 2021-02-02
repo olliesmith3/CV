@@ -1,11 +1,11 @@
-<h1 align="center">Oliver Smith MChem</h1>
+<h1 align="center">Oliver Smith</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/oliver-smith-635828164/">
 <img src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 <div align="center">
 
-[Personal Profile ](#Personal Profile) |
+[Personal Profile ](#Profile) |
 [Motivation ](#Motivation?) |
 [Projects ](#projects) |
 [Experience ](#experience) |
@@ -15,7 +15,7 @@
 
 </div>
 
-## Personal Profile
+## Profile
 
 I am a recent graduate of Makers Academy, a 12-week intensive coding bootcamp for career changers. I bring a scientific background and problem solving skills with a natural ability to communicate. My motivation for becoming a software developer was a need to take on more challenging problems and be more creative in my day-to-day. Coding allows me to be inventive and collaborate so that I can learn new technologies quickly and steadily develop high quality code. 
 
