@@ -6,7 +6,7 @@ I am a software developer familiar with Ruby and JavaScript. I am a recent gradu
 
 | Name                            | Description                        | Tech/tools        |
 | ------------------------------- | ---------------------------------- | ----------------- |
-| **udderless - personal**        | Staff website for oatmilk business | Rails, Minitest   |
+| **[udderless](actual URL to navigate) - personal**        | Staff website for oatmilk business | Rails, Minitest   |
 | **brewkanoo - group**           | A home brewing walkthrough app     | React             |
 | **bank tech test - personal**   | A small project with versatile code| Ruby, RSpec       |
 | **acebook robotlizard - group** | A social media site                | Rails             |
