@@ -1,13 +1,13 @@
 ## Oliver Smith
 
-I am a software developer familiar with Ruby and JavaScript. I am a recent graduate of Makers Academy, a 12-week intensive coding bootcamp for career changers. I bring a scientific background and problem solving skills with a natural ability to communicate.
+I am a recent graduate of Makers Academy, a 12-week intensive coding bootcamp for career changers. I bring a scientific background and problem solving skills with a natural ability to communicate. My motivation for becoming a software developer was a need to take on more challenging problems and be more creative in my day-to-day. Coding allows me to be inventive and collaborate so that I can learn new technologies quickly and steadily develop high quality code.
 
 ## Projects
 
 | Name                            | Description                        | Tech/tools        |
 | ------------------------------- | ---------------------------------- | ----------------- |
 | **[udderless](https://github.com/olliesmith3/udderless) - personal**        | Staff website for oatmilk business | Rails, Minitest   |
-| **brewkanoo - group**           | A home brewing walkthrough app     | React             |
+| **[brewkanoo](https://github.com/olliesmith3/brewkanoo) - group**           | A home brewing walkthrough app     | React             |
 | **bank tech test - personal**   | A small project with versatile code| Ruby, RSpec       |
 | **acebook robotlizard - group** | A social media site                | Rails             |
 
@@ -17,15 +17,16 @@ I am a software developer familiar with Ruby and JavaScript. I am a recent gradu
 
 - High level of attention to detail.
     - I produced excellent quality levels when assessing customer's current pension schemes to determine which switch drivers would apply to their situation.
-- Knowledge of pensions and investments.
-    - Learning about both modern and historic schemes whilst working in a sensitive data environment and conforming to FCA regulations. 
 - A natural communicator who encourages friendship and inclusivity within a team. 
-    - Through regularly checking in with my peers and organising events outside of work I became a familiar face for colleagues to consult with     problems. 
+    - Through regularly checking in with my peers and organising events outside of work I became a familiar face for colleagues to consult with     problems.
+- Knowledge of pensions and investments.
+    - Learning about both modern and historic schemes whilst working in a sensitive data environment and conforming to FCA regulations.  
 
-**August 2018 - August 2019**
-- In the year between graduating and starting at Profile Pensions I worked in retail and as a tree surgeon. 
-    - I learned a lot of teamwork and communication skills doing these jobs, which will be invaluable in my career as a software developer.
-    - To see more about these roles and other roles not particularly relevant to coding please visit my Linked In profile.
+**C Hall Arboriculture (Tree Surgery Labourer) April 2019 - August 2019**
+    - Working in a team of two, we had be completely in tune with one another to safely and efficiently dismantle trees. These communication skills have been invaluable as a developer.
+    
+**Borough Market (Stall Manager) September 2018 - April 2019**
+    - As stall manager I communicated effectively witch customers and other staff to give great customer service. I was responsible for sales, preparing the food and stock management.
 
 ## Skills
 
@@ -36,6 +37,7 @@ Studying science has given me many transferrable skills relevant to coding. A lo
 ## Education
 
 #### Makers Academy August 2020 - November 2020
+
 - Test-driven high-quality code writing
     - Please see my projects mentioned above for examples of my code quality.
 - Agile development process
@@ -44,6 +46,13 @@ Studying science has given me many transferrable skills relevant to coding. A lo
     - Daily 4 hour sessions taught me how to learn from others but also how to teach and get the most out of people.
 - OOP 
     - Became competent in Ruby and JS
+    
+- Other
+    - Languages: Ruby, JavaScript, Python, SQL
+    - Web Frameworks/Libraries: Ruby on Rails, React, Sinatra
+    - Databases: Postgres
+    - Testing Suites: RSpec, Jasmine, React Testing Library
+    - CI/CD: Travis, Heroku
 
 #### University of Bristol - Integrated Chemistry Masters MChem (2014 to 2018)
 
