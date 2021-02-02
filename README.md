@@ -1,6 +1,27 @@
-## Oliver Smith
+<h1 align="center">Oliver Smith MChem</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/oliver-smith-635828164/">
+<img src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-I am a recent graduate of Makers Academy, a 12-week intensive coding bootcamp for career changers. I bring a scientific background and problem solving skills with a natural ability to communicate. My motivation for becoming a software developer was a need to take on more challenging problems and be more creative in my day-to-day. Coding allows me to be inventive and collaborate so that I can learn new technologies quickly and steadily develop high quality code.
+<div align="center">
+
+[Personal Profile ](#Personal Profile) |
+[Motivation ](#Motivation?) |
+[Projects ](#projects) |
+[Experience ](#experience) |
+[Skills ](#skills) |
+[Education ](#education) |
+[Interests ](#interests)
+
+</div>
+
+## Personal Profile
+
+I am a recent graduate of Makers Academy, a 12-week intensive coding bootcamp for career changers. I bring a scientific background and problem solving skills with a natural ability to communicate. My motivation for becoming a software developer was a need to take on more challenging problems and be more creative in my day-to-day. Coding allows me to be inventive and collaborate so that I can learn new technologies quickly and steadily develop high quality code. 
+
+## Motivation
+
+During my time as a Pension Data Analyst there were many repetitive tasks that I felt could be automated. After some research, I started learning Python and SQL in my own time after work. I found this very addictive and it quickly became apparent that this was what I wanted to do. In August 2020, I decided to quit my job and start at Makers Academy. I very glad that I had the confidence to make this decision as every day I am now able to learn something new and create something exciting.
 
 ## Projects
 
@@ -68,7 +89,7 @@ Studying science has given me many transferrable skills relevant to coding. A lo
 A Levels: Maths (A), Chemistry (A), Physics (B), Music AS (B)
 GCSE's: 6 x A* , 3 x A
 
-## Hobbies & Interests
+## Interests
 
 I am interested in all things food related; I make my own cured meats and brew my own beer & wine. I
 enjoy keeping fit by running, cycling and playing football. I am a keen musician and write and
